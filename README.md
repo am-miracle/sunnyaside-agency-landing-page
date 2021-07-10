@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-ySEGSwsEN
+- Live Site URL: [Netlify](https://sunnyside-agency-page.netlify.app/)
 
 ## My process
 
@@ -134,7 +134,7 @@ I will work more on building responsive navigation bar.
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@andreas-15](https://www.frontendmentor.io/profile/andreas-15)
 - Twitter - [@Dare_devs](https://www.twitter.com/Dare_devs)
-- codepen - []
+- codepen - [https://codepen.io/JudeIV]
 
 
 ## Acknowledgments
